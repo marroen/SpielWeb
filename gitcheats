@@ -1,0 +1,6 @@
+In order to push to origin:
+
+1. do changes locally
+2. do 'git add .'
+3. do 'git commit -m "commit message"'
+4. do 'git push -u origin master'
