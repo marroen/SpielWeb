@@ -1,6 +1,8 @@
 In order to push to origin:
 
-1. do changes locally
-2. do 'git add .'
-3. do 'git commit -m "commit message"'
-4. do 'git push -u origin master'
+1. navigate to /coimbra
+2. do 'git status' to investigate
+3. do changes locally
+4. do 'git add .'
+5. do 'git commit -m "commit message"'
+6. do 'git push -u origin master'
