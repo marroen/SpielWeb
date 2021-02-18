@@ -1,10 +1,10 @@
+1.
+Need marketplace class
+
+2. 
 Link Gmaps API to RoR
 Want to integrate Uber & pirate support for transport
 Also need Vipps API for tickets, marketplace
-Associated bubbles form a newspaper-feed, e.g. class Feed, Party << Feed, Home << Feed
-Might need a Host << Member or Hiree << Member to add bouncer, DJ, photographer, co-host, etc. functionality
-Remove all test code when skeleton is done
-Separate Searcher-class to new searcher.rb, use for identifying, e.g, active_parties
 
 Essential:
 * need to improve workflow

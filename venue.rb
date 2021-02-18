@@ -1,5 +1,6 @@
+
 class Venue
-  attr_accessor :name, :parties, :active_parties, :hosts, :music
+  attr_accessor :name, :parties, :active_parties, :hosts, :music, :dj
 
   def initialize(name)
     self.name = name
@@ -8,10 +9,10 @@ class Venue
   end
 
   def play_music
-    # think this through
+    # allow both DJ responsibility & freedom of music
   end
 
 end
 
-v = Venue.new('Søndre Samfund')
-puts "The name of the venue is #{v.name} and its ID is #{v.object_id}."
+#v = Venue.new('Søndre Samfund')
+#puts "The name of the venue is #{v.name} and its ID is #{v.object_id}."
