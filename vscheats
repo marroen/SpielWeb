@@ -1,3 +1,4 @@
 Ctrl + Shift + L = select all occurrences of matched word
 Alt = selecting multiple lines
 Shift + Alt = selecting every line from first to second click
+Alt + Up/Down = selected line | highlighted line | line by cursor swaps position with line over/under

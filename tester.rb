@@ -1,5 +1,5 @@
 
-require_relative 'deichman'
+require_relative 'marketplace'
 require_relative 'member'
 require_relative 'party'
 require_relative 'searcher'
